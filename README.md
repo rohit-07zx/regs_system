@@ -1,6 +1,3 @@
-Here's a formatted `README.md` file with the installation and usage instructions:
-
-````markdown
 # Project Registration System
 
 ## Introduction
@@ -25,7 +22,6 @@ Follow these steps to set up the project on your local machine:
    git clone https://github.com/rohit-07zx/regs_system.git
    cd regs_system
    ```
-````
 
 2. **Install Dependencies**
 
@@ -58,3 +54,7 @@ php yii serve
 ```
 
 Visit `http://localhost:8080` in your browser to view the application.
+
+```
+
+```
